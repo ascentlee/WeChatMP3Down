@@ -11,3 +11,6 @@ Download mp3 files on WeChat webpage in batch and store them with their original
 # Requirements
 1. Connected to the internet
 2. Valid address
+# Introduction to its use
+You can watch a video clip on Bilibili.com, and the address is:
+https://www.bilibili.com/video/BV1aG411g7d3/?spm_id_from=333.999.0.0
